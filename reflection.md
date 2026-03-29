@@ -2,7 +2,7 @@
 
 ## Activity Description
 
-For this Career Development Experience, I researched and applied to 98 cybersecurity internships for Summer 2026. I targeted roles spanning security engineering, application security, DevSecOps, SOC analysis, and general cybersecurity at companies including Amazon, PayPal, Thermo Fisher Scientific, Capital One, and CISA. My approach was to apply broadly across sub-domains while tailoring my resume to emphasize the most relevant experience for each category of role — my bug bounty background for AppSec roles, my CI/CD projects for DevOps positions, and my NCL competition results for SOC and analyst roles.
+For this Career Development Experience, I researched and applied to 98 cybersecurity internships for Summer 2026. I targeted roles spanning security engineering, application security, DevSecOps, SOC analysis, and general cybersecurity at companies including Amazon, PayPal, Thermo Fisher Scientific, Capital One, and CISA. My approach was to apply broadly across sub-domains while tailoring my resume to emphasize the most relevant experience for each category of role, my bug bounty background for AppSec roles, my CI/CD projects for DevOps positions, and my NCL competition results for SOC and analyst roles.
 
 ## Technical and Professional Decisions
 
