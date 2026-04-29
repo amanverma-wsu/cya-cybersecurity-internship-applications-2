@@ -63,4 +63,4 @@ I bring a combination of academic coursework, hands-on security research, and pe
 
 ---
 
-*This repository was created as part of the Career Development Experience (CYA 01) assignment for Washington State University.*
+*This repository was created as part of the Career Development Experience (CYA 02) assignment for Washington State University.*
