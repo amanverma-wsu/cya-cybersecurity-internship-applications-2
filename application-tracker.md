@@ -53,5 +53,3 @@ I applied to **98 cybersecurity and DevOps internship positions** between **Sept
 - Application security roles aligned most closely with my bug bounty and vulnerability research background.
 
 ---
-
-*Screenshots of the Jobright AI dashboard and individual application confirmations are in the [screenshots](./screenshots/) folder.*
