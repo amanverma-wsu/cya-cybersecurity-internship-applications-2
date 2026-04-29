@@ -23,5 +23,3 @@ I am partially satisfied with my performance. On the positive side, I committed 
 This experience directly advances my goal of securing a cybersecurity internship before senior year. Beyond the applications themselves, the process forced me to articulate my strengths, identify which sub-domains of cybersecurity excite me most, and recognize gaps I can fill through coursework and certifications. I came away with a clearer focus on **application security and DevSecOps** as the areas where my skills and interests converge, which will guide my elective choices and personal projects going forward.
 
 ---
-
-*Word count: ~430 / 500*
