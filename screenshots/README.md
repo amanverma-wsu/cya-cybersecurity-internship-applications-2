@@ -12,4 +12,4 @@ This folder contains evidence of submitted applications.
 
 - The dashboard screenshot captures the full scope of the application effort across September 2025 through March 2026
 - Visible entries include roles at Webster Bank, CLEAR, and Calix with application dates and status
-- The "Applied (98)" tab confirms the total number of submissions
+- The "Applied (110)" tab confirms the total number of submissions
